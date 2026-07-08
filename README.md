@@ -35,7 +35,7 @@ interests: [Backend Development, GenAI, Problem Solving]
 soft_skills: [Problem Solving, Logical Thinking, Team Management, Communication]
 ```
 
-I'm a Computer Science student who enjoys building things that solve real problems — from a receipt-tracking mobile app to small web tools. I completed a 3-month Python Developer internship at **Bitbash Software House**, where I worked on real applications and picked up solid development practices. Right now I'm deepening my backend skills with **FastAPI** and exploring **Generative AI**, and I'm actively looking for opportunities to keep growing as a developer.
+I'm a Computer Science student who enjoys building things that solve real problems — from a receipt-tracking mobile app to small web tools. Right now I'm deepening my backend skills with **FastAPI** and exploring **Generative AI**, and I'm actively looking for opportunities to keep growing as a developer.
 
 **🔭 Open to:** Internships & entry-level roles in Backend Development / Python / GenAI
 
@@ -99,26 +99,16 @@ A clean, basic calculator built to practice core web fundamentals — arithmetic
 
 ---
 
-### 💼 Experience
-
-**Python Developer Intern** — Bitbash Software House, Lahore *(3 Months)*
-
-- Developed and maintained Python-based applications and scripts
-- Collaborated with the development team on real-world software projects
-- Assisted in debugging, testing, and improving existing codebases
-
-`Python` `Debugging` `Team Collaboration` `Software Development Workflows`
-
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=areejfatima-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=areejfatima-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=areejfatima-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=areejfatima-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areejfatima-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=areejfatima-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="48%" />
 
 </div>
 
@@ -126,7 +116,7 @@ A clean, basic calculator built to practice core web fundamentals — arithmetic
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=areejfatima-dev&theme=algolia&no-frame=true&column=6&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=areejfatima-dev&theme=algolia&no-frame=true&column=6&margin-w=8&margin-h=8&row=2" />
 
 </div>
 
@@ -176,3 +166,4 @@ open_to:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
+
