@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Areej%20Fatima&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20and%20Aspiring%20GenAI%20Developer&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=BSCS+Student+%40+University+of+Lahore;Learning+FastAPI+%26+Generative+AI;Python+Developer+Intern+%40+Bitbash;Turning+Ideas+Into+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=BSCS+Student+%40+University+of+Lahore;Learning+FastAPI+%26+Generative+AI;Turning+Ideas+Into+Code" alt="Typing SVG" />
 
 <br/>
 
@@ -116,7 +116,7 @@ A clean, basic calculator built to practice core web fundamentals — arithmetic
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=areejfatima-dev&theme=algolia&no-frame=true&column=6&margin-w=8&margin-h=8&row=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=areejfatima-dev&theme=algolia&no-frame=true&column=6&margin-w=8&margin-h=8" />
 
 </div>
 
