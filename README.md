@@ -128,12 +128,9 @@ A clean, basic calculator built to practice core web fundamentals — arithmetic
 
 </div>
 
-<!--
 <div align="center">
 <img src="https://raw.githubusercontent.com/areejfatima-dev/areejfatima-dev/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </div>
-Enable via the "snk" GitHub Action in your repo to activate the snake animation.
--->
 
 ---
 
