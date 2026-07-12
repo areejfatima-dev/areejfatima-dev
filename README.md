@@ -35,7 +35,7 @@ interests: [Backend Development, GenAI, Problem Solving]
 soft_skills: [Problem Solving, Logical Thinking, Team Management, Communication]
 ```
 
-I'm a Computer Science student who enjoys building things that solve real problems — from a receipt-tracking mobile app to small web tools. Right now I'm deepening my backend skills with **FastAPI** and exploring **Generative AI**, and I'm actively looking for opportunities to keep growing as a developer.
+I'm a Computer Science student who enjoys building things that solve real problems — right now I'm building **Study Buddy**, an AI-powered notes summarizer and quiz generator for students. I'm deepening my backend skills with **FastAPI** and exploring **Generative AI**, and I'm actively looking for opportunities to keep growing as a developer.
 
 **🔭 Open to:** Internships & entry-level roles in Backend Development / Python / GenAI
 
@@ -69,16 +69,16 @@ I'm a Computer Science student who enjoys building things that solve real proble
 ### 🚀 Featured Projects
 
 <details>
-<summary><b>📱 ReceiptVault — Mobile App with OCR & Cryptography</b></summary>
+<summary><b>📚 Study Buddy — Notes Summarizer & Quiz Generator</b></summary>
 <br/>
 
-Built to solve a simple everyday problem: lost or damaged paper receipts. Users can scan receipts, scan QR codes from retailers, or add receipts manually — with warranty tracking and spending analytics built in.
+A full-stack web app that turns a student's raw notes (or an uploaded PDF/Word file) into a clean summary and an AI-generated MCQ quiz — with adjustable difficulty, Urdu language support, and downloadable PDF quizzes.
 
 | Aspect | Details |
 |---|---|
-| **Stack** | Mobile Dev, OCR, Cloud Storage, Cryptography |
-| **Security** | Retailer web portal generates QR-based digital receipts secured with HMAC-SHA256 signatures to prevent forgery |
-| **Features** | Warranty tracking, spending analytics, receipt scanning |
+| **Stack** | FastAPI, Python, Google Gemini API, SQLite, HTML/CSS/JS |
+| **Features** | Notes summarizer, AI quiz generator, Easy/Medium/Hard difficulty, PDF/DOCX file upload, PDF export, Urdu language support |
+| **Auth & Data** | User signup/login (JWT-based), per-user saved history |
 | **Repository** | *link coming soon* |
 
 </details>
@@ -101,6 +101,18 @@ A clean, basic calculator built to practice core web fundamentals — arithmetic
 
 ---
 
+### 🧩 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Areejfatima43-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Areejfatima43/)
+
+<img src="https://leetcard.jacoblin.cool/Areejfatima43?theme=dark&font=Fira%20Code&ext=heatmap" width="60%" />
+
+</div>
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -112,14 +124,6 @@ A clean, basic calculator built to practice core web fundamentals — arithmetic
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=areejfatima-dev&theme=algolia&no-frame=true&column=6&margin-w=8&margin-h=8" />
-
-</div>
-
 ### 📈 Contribution Activity
 
 <div align="center">
@@ -128,9 +132,12 @@ A clean, basic calculator built to practice core web fundamentals — arithmetic
 
 </div>
 
+<!--
 <div align="center">
 <img src="https://raw.githubusercontent.com/areejfatima-dev/areejfatima-dev/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </div>
+Enable via the "snk" GitHub Action in your repo to activate the snake animation.
+-->
 
 ---
 
