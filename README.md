@@ -79,7 +79,7 @@ A full-stack web app that turns a student's raw notes (or an uploaded PDF/Word f
 | **Stack** | FastAPI, Python, Google Gemini API, SQLite, HTML/CSS/JS |
 | **Features** | Notes summarizer, AI quiz generator, Easy/Medium/Hard difficulty, PDF/DOCX file upload, PDF export, Urdu language support |
 | **Auth & Data** | User signup/login (JWT-based), per-user saved history |
-| **Repository** | *link coming soon* |
+| **Repository** | [https://github.com/areejfatima-dev/Study-Buddy](https://github.com/areejfatima-dev/Study-Buddy)|
 
 </details>
 
