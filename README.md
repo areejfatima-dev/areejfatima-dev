@@ -82,6 +82,18 @@ A full-stack web app that turns a student's raw notes (or an uploaded PDF/Word f
 | **Repository** | [https://github.com/areejfatima-dev/Study-Buddy](https://github.com/areejfatima-dev/Study-Buddy)|
 
 </details>
+<details>
+<summary><b>🤖 PDF RAG Assistant — Retrieval-Augmented Generation with Gemini</b></summary>
+<br/>
+A RAG (Retrieval-Augmented Generation) pipeline that answers questions from PDF documents by combining semantic search with Google's Gemini API — grounding every answer in the actual document content instead of relying on the model's general knowledge.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | Python, LangChain, ChromaDB, HuggingFace Embeddings, Google Gemini API |
+| **Features** | PDF loading & chunking, local embeddings, vector similarity search, context-grounded answers |
+| **How it works** | Load PDF → split into chunks → embed → store in ChromaDB → retrieve top matches → generate grounded answer via Gemini |
+| **Repository** | [github.com/areejfatima-dev/pdf-rag-gemini](https://github.com/areejfatima-dev/pdf-rag-gemini) |
+</details>
 
 <details>
 <summary><b>🧮 Calculator Project — HTML, CSS, JavaScript</b></summary>
